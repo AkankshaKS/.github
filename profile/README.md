@@ -6,7 +6,7 @@ I'm **Akanksha Pandey**, a **Senior Android Developer** with **6+ years** of exp
 
 ## 🚀 About Me
 
-Passionate mobile engineer with expertise in crafting high-performance Android applications using modern Kotlin ecosystem. I specialize in delivering real-time security workflows, offline-first solutions, and production-ready features in fast-paced Agile environments. Currently working as **Advanced Engineer at Harman Connected Services** (Nov 2025 - Present).
+Passionate mobile engineer with expertise in crafting high-performance Android applications using modern Kotlin ecosystem. I specialize in delivering real-time security workflows, offline-first solutions, and production-ready features in fast-paced Agile environments.
 
 - 📱 **Mobile Development**: Building scalable Android apps with Kotlin and Jetpack Compose
 - 🏗️ **Architecture**: MVVM, Clean Architecture, Modularization, and best practices
@@ -19,98 +19,56 @@ Passionate mobile engineer with expertise in crafting high-performance Android a
 ## 🛠️ Technical Skills
 
 ### Languages
-- **Kotlin** (Primary)
-- **Java**
+<div align="center">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+</div>
 
 ### Frameworks & Libraries
-- **Android SDK**
-- **Jetpack Libraries** (Compose, LiveData, Room, Navigation, etc.)
-- **Jetpack Compose** (Modern UI toolkit)
-- **Kotlin Multiplatform Mobile (KMM)**
+<div align="center">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
+</div>
 
 ### Architecture & Design
-- **MVVM** (Model-View-ViewModel)
-- **Clean Architecture**
-- **Modularization**
-- **OOPS Principles**
+<div align="center">
+  <img src="https://img.shields.io/badge/MVVM-FF6B6B?style=for-the-badge" alt="MVVM"/>
+  <img src="https://img.shields.io/badge/Clean%20Architecture-4ECDC4?style=for-the-badge" alt="Clean Architecture"/>
+  <img src="https://img.shields.io/badge/Modularization-45B7D1?style=for-the-badge" alt="Modularization"/>
+</div>
 
 ### Tools & Libraries
-- **Room Database** (Local data persistence)
-- **Retrofit** (REST API integration)
-- **Dagger/Hilt** (Dependency Injection)
-- **Coroutines & Flow** (Asynchronous programming)
-- **RxJava** (Reactive programming)
-- **Firebase** (Analytics, Messaging, Crashlytics)
-- **WebSockets** (Real-time communication)
-- **LiveData** (Reactive data holder)
+<div align="center">
+  <img src="https://img.shields.io/badge/Room%20DB-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Room DB"/>
+  <img src="https://img.shields.io/badge/Retrofit-FF9800?style=for-the-badge" alt="Retrofit"/>
+  <img src="https://img.shields.io/badge/Dagger%2FHilt-EF4444?style=for-the-badge" alt="Dagger/Hilt"/>
+  <img src="https://img.shields.io/badge/Coroutines%20%26%20Flow-6750A4?style=for-the-badge" alt="Coroutines & Flow"/>
+  <img src="https://img.shields.io/badge/RxJava-B81D13?style=for-the-badge" alt="RxJava"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
+</div>
 
-### Concepts & Specializations
-- **Offline-First Architecture**
-- **Scalable Design Patterns**
-- **UX Optimization**
-- **Deep Linking**
-- **Real-time Event Handling**
-
-### Development Tools
-- **Android Studio**
-- **Git/GitHub/Bitbucket**
-- **Agile Development**
-
----
-
-## 💼 Work Experience
-
-### Harman Connected Services
-**Advanced Engineer** | November 2025 - Present
-- Building advanced Android solutions for connected services ecosystem
-
-### Honeywell Home Residential
-**Senior Engineer** (via Axiscades) | September 2023 - May 2025
-- **Core Smart-Home Security Features**: Developed end-to-end security workflows using Kotlin, KMM, Jetpack Compose, MVVM, and Clean Architecture
-- **Real-Time Interactions**: Implemented intrusion alarms, arm/disarm, active alarms, troubles, and live camera streaming
-- **API Integration**: Integrated REST APIs, WebSocket event updates, DTO mapping, and sophisticated UI state management
-- **Tech Stack**: Kotlin, Kotlin Multiplatform Mobile, Jetpack Compose, Coroutines/Flow, modular architecture
-
-### Axiscades
-**Senior Engineer** | September 2023 - May 2025
-- **Non-Conformity Tracking (Airbus)**: Delivered end-to-end solution with MSAL SSO, Room DB, dynamic JSON forms, and offline-first support (30% improvement in NC data collection)
-- **QR Code Solutions (Delta Electronics)**: Developed POC apps for scanning and validating industrial cylinders with backend API integration
-- **TD Drive Tool**: Improved MVVM implementation, reduced ANRs by 12%
-- **Smart Viewer App**: Fixed BLE visibility issues, restored device detection functionality
-
-### OnMobile Global
-**Software Engineer - Android** | April 2020 - June 2023
-- **RBT Caller Tune App**: Migrated legacy Java to Kotlin (MVVM, Room, Dagger); designed "Report a Bug" module; implemented coach marks (+12% signup increase)
-- **Challenges Arena**: Resolved library conflicts, boosted onboarding by 18% and revenue by 6%
-- **Analytics & Engagement**: Integrated CleverTap, Firebase, and deep links for optimized user behavior tracking
-
-### Emproto Technologies
-**Software Engineer - Android** | April 2019 - August 2019
-- **Phable App** (Smart Healthcare): Developed Doctor Dissociation feature using deep linking (Branch.io), MVVM, and Room DB
-- Fixed high-priority bugs; gained expertise with LiveData, Dagger, Retrofit, and two-way data binding
-
-### LS Techies
-**Software Engineer - Android** | July 2018 - March 2019
-- **ingroups App**: Built Attendance feature for internal communication app
-- Foundation in Android UI components and collaborative development
-
-### Mozilla KNIT
-**Open Source Contributor** | 2016 - 2017
-- Collaborated with volunteer team to develop event registration Android application
+### Specializations
+<div align="center">
+  <img src="https://img.shields.io/badge/Offline%20First-9C27B0?style=for-the-badge" alt="Offline First"/>
+  <img src="https://img.shields.io/badge/Real--Time%20Events-FF5722?style=for-the-badge" alt="Real-Time Events"/>
+  <img src="https://img.shields.io/badge/UX%20Optimization-2196F3?style=for-the-badge" alt="UX Optimization"/>
+  <img src="https://img.shields.io/badge/Deep%20Linking-4CAF50?style=for-the-badge" alt="Deep Linking"/>
+</div>
 
 ---
 
 ## 🎯 Featured Projects
 
 ### 📰 Live News App
-**Technologies**: Kotlin, Dagger, Coroutines, MVVM
+**Technologies**: Kotlin | Dagger | Coroutines | MVVM
 - Modern news application with reactive architecture
 - [View on GitHub](https://github.com/AkankshaKS)
 
 ### 💰 Monthly Budget Tracker
-**Technologies**: Kotlin, Room DB, Jetpack Compose
+**Technologies**: Kotlin | Room DB | Jetpack Compose
 - Personal finance management app with modern UI
-- August 2025 | [View on GitHub](https://github.com/AkankshaKS)
+- [View on GitHub](https://github.com/AkankshaKS)
 
 ---
 
@@ -121,13 +79,36 @@ Passionate mobile engineer with expertise in crafting high-performance Android a
 
 ---
 
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkankshaKS&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkankshaKS&layout=compact&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 Key Achievements
+
+✅ **6+ years** of Android development expertise  
+✅ **Smart Home Security** features at scale (Honeywell)  
+✅ **30% improvement** in NC data collection (Airbus project)  
+✅ **+12% user engagement** increase  
+✅ **+18% onboarding boost** (Challenges Arena)  
+✅ **Production-ready** features across healthcare, industrial, gaming, and telecom domains  
+
+---
+
 ## 📫 Let's Connect!
 
 I'm always interested in:
 - Collaborating on innovative Android projects
 - Discussing mobile architecture and best practices
 - Contributing to open-source communities
-- Learning from fellow developers and staying updated with Android ecosystem
+- Learning from fellow developers
 
 **Feel free to reach out:**
 - 📧 **Email**: aaakanksha05@gmail.com
@@ -136,15 +117,8 @@ I'm always interested in:
 
 ---
 
-## 📊 Key Achievements
-
-✅ **6+ years** of Android development expertise  
-✅ **Smart Home Security** features at scale (Honeywell)  
-✅ **30% improvement** in NC data collection (Airbus project)  
-✅ **+12% user engagement** increase (OnMobile)  
-✅ **+18% onboarding boost** (Challenges Arena)  
-✅ **Production-ready** features across healthcare, industrial, gaming, and telecom domains  
-
----
-
+<div align="center">
+  
 **Thank you for visiting! Let's build amazing Android apps together!** 🚀📱
+
+</div>
