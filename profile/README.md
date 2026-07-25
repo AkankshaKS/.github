@@ -72,22 +72,27 @@ Passionate mobile engineer with expertise in crafting high-performance Android a
 
 ---
 
+## 📊 Expertise Distribution
+
+<div align="center">
+
+| Skill | Proficiency |
+|-------|-------------|
+| **Kotlin Development** | ████████░░ 90% |
+| **Android Architecture** | ████████░░ 85% |
+| **Jetpack Compose** | ███████░░░ 80% |
+| **API Integration** | ████████░░ 90% |
+| **Database Design** | ███████░░░ 80% |
+| **Performance Optimization** | ████████░░ 85% |
+
+</div>
+
+---
+
 ## 🎓 Education
 
 **Bachelor of Technology (Computer Science and Engineering)**
 - **KNIT, Sultanpur** | May 2018
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkankshaKS&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkankshaKS&layout=compact&theme=radical&hide_border=true)
-
-</div>
 
 ---
 
